@@ -1,5 +1,4 @@
-
-This is just a little project made to pratice some of the knowledge acquired in the last few months. Don't expect it to do much for now, but it will get better over time as I learn new tools.
+This is just a very simple Eisenhower's Diagram I made as a little project meant to pratice some of the knowledge acquired in the last few months. Don't expect it to do much for now, but it will get better over time as I learn new tools.
 
 Many of the code's features were made to accomodate future functionalities.
 
